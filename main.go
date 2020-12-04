@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	log.Print("reviewers")
+	log.Print("test pr reviewers")
 }
